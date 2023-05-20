@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MusicPlayerNovera:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MusicPlayerNovera_jar</output-path>
+    <root id="archive" name="MusicPlayerNovera.jar">
+      <element id="module-output" name="MusicPlayerNovera" />
+    </root>
+  </artifact>
+</component>
